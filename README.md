@@ -14,3 +14,8 @@ The descriptions simply follow the discovery URL and pulls in the meta descripti
 # Installation 
 
 Simply drop this discoveries.php file on any server running Apache or Nginx and PHP 7.x or newer, and you should be able to load it in a browser window.  You can even rename the file if you wanted.
+
+NOTE: You will have to enable CORS (cross-origin resources) to pull the podcast feed and descriptions
+
+Working example can be found here:
+https://beta.vipmembervault.com/discoveries.php
